@@ -20,4 +20,4 @@ Step1:
     }
 }
 
-![Image of Yaktocat](https://futomtom.github.com/images/yaktocat.png)
+![demo](https://github.com/futomtom/TabBarVCTransition/blob/master/tabbar_animation.gif)
